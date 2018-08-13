@@ -1,0 +1,20 @@
+#server：port: 8080
+#
+#server:
+#
+#  port: 443
+#  ssl:
+#    enabled: true
+#    key-store: classpath:shaqianqian.xyz.jks
+#    key-store-password: 768hn6mn4ikh3
+#    key-store-type: JKS
+#    keyAlias: 1
+#server:
+#
+#  port: 8443
+#  ssl:
+#    enabled: true
+#    key-store: classpath:tomcat.jks
+#    key-store-password: 123456
+#    key-store-type: JKS
+#    keyAlias: 1

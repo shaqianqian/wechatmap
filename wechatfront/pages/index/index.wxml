@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view  bindtap="bindViewTap" class="userinfo">
+    <image class="userinfo-avatar" src="{{appInfo.logoUrl}}" background-size="cover"></image>
+    <text class="userinfo-nickname">{{appInfo.title}}</text>
+  </view>
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+   <view> 
+   <button class="requestTestBtn" bindtap="requestTestBtnClick" >登陆</button></view>
+
+
+</view>
